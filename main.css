@@ -49,8 +49,8 @@ span {
 
 .button {
     position:absolute;
-    top: 61.5%;
-    left: 38.5%;
+    top: 64.5%;
+    margin:auto;
     display:flex;
     justify-content:space-around;
     height:61px;
@@ -89,7 +89,7 @@ span {
 
 .radio {
     position: absolute;
-    top: 71%;
+    top: 74%;
     width: 86px;
     height: 14px;
     display: flex;
@@ -116,3 +116,158 @@ span {
     
 
 }
+
+.mother-box-1{
+    /* width:1920px;
+    height:90px; */
+    display:flex;
+    justify-content:space-around;
+    box-shadow: 0 0.55px 5px lightgray;
+
+}
+
+
+.page {
+    width:10%;
+}
+.nav {
+    display: flex;
+    justify-content: center;
+    height: 90px;
+    width: 1180px;
+    margin-right: 8%;
+}
+.logo {
+    width: 160px;
+    height: 45px;
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+    margin-right: 14.4%;
+    margin-left: 6.4%;
+}
+.photo {
+    width: 40px;
+    height: 45px;
+}
+
+.fox {
+    font-size: 35.69px;
+    color: #34495E;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    margin-left: 10%;
+}
+
+.bar {
+    width: 904px;
+    height: 15px;
+    display: flex;
+    font-size: 15px;
+    flex-direction: row;
+    align-self: center;
+
+    justify-content: space-between;
+}
+
+.page {
+    color:#A1B1BC;
+    font-family:'Lato', sans-serif;
+
+}
+
+.lighter{
+    font-family:'Lato', sans-serif;
+    color: #34495E;
+    
+}
+
+.mother-box-2{
+    width:1920px;
+    height:435px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+   
+}
+
+
+.statia{
+    width:270px;
+    height:240px;
+    position: relative;
+    margin-top: 3%;
+    
+    
+}
+
+.child-box{
+    width:1170px;
+    height:300px;
+    display:flex;
+    justify-content: space-between;
+    margin-top: 2.3%;
+    margin-right: 1%;
+
+}
+
+.little-statia {
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    border: 1px solid #DBE7EF;
+    width: 270px;
+    height: 210px;
+}
+.circle-circle {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    border: solid 1px #DBE7EF;
+    position: absolute;
+    top: -13%;
+    left: 38%;
+    background-color:white;
+
+
+}
+
+.circle-l {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border: solid 1px #DBE7EF;
+    position: absolute;
+    top: 8%;
+    left: 8%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.head{
+    margin-top: 18.5%;
+    font-size: 18px;
+    color: #2c3e50;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    margin-left: 15%;
+    margin-bottom: 1%;
+    
+}
+
+
+.inside {
+    font-size: 14px;
+    color: #a1b1bc;
+    width: 189px;
+    margin-left: 15%;
+    line-height: 24px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    margin-top: 3%;
+
+}
+
