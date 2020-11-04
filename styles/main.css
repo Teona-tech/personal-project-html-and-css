@@ -26,7 +26,7 @@ body {
     font-family: 'Lato', sans-serif;
     word-spacing: 4px;
     position: absolute;
-    top: 35%;
+    top: 36.3%;
     left: 37%;
 
 }     
@@ -37,7 +37,7 @@ body {
     text-align:center;
     font-weight:bold;
     font-family: 'Lato', sans-serif;
-    top: 35%;
+    top: 40%;
     left: 21%;
 
 }
@@ -48,7 +48,7 @@ body {
     font-weight:lighter;
     font-family: 'Lato', sans-serif;
     position: absolute;
-    top: 44.4%;
+    top: 46.4%;
     left: 29%;
 }
 
@@ -65,7 +65,7 @@ span {
     height: 61px;
     width: 440px;
     left: 38.5%;
-    top: 52.5%;
+    top: 52.2%;
 
 }
 
@@ -126,7 +126,7 @@ span {
     display: flex;
     justify-content: space-between;
     left: 47.8%;
-    top: 60.5%;
+    top: 60%;
 }
 
 

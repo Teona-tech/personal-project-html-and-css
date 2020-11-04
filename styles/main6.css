@@ -20,7 +20,7 @@
     color: #222533;
     font-weight: lighter;
     word-spacing: 5px;
-    top: 5%;
+    top:10%;
 }
 .story2 {
     text-align: center;
@@ -33,7 +33,7 @@
     width: 630.7px;
     line-height: 24px;
     word-spacing: 1px;
-    top: 14%;
+    top: 16%;
 }
 
 .nav-house{
@@ -61,7 +61,7 @@
 }
 .nav-palase{
     position:absolute;
-    top: 27.6%;
+    top: 29.6%;
     left: 19.45%;
 }
 

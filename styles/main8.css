@@ -16,8 +16,9 @@
     font-size: 35px;
     word-spacing: 30%;
     position: absolute;
-    top: 6%;
-    left: 38.7%;
+    top: 11%;
+    left: 37.5%;
+
 }
 
 .green-fox{
@@ -44,7 +45,7 @@
     word-spacing: 50%;
     height: 40px;
     text-indent:70px;
-    top: 14%;
+    top: 16%;
 }
 .trends {
     width: 300px;
@@ -62,8 +63,8 @@
     font-family: 'Lato', sans-serif;
     font-size: 18px;
     text-align: right;
-    top: 0%;
-    left: 29%;
+    top: 18%;
+    left: 28.2%;
 }
 
 
@@ -159,8 +160,8 @@
     font-family: 'Lato', sans-serif;
     font-size: 18px;
     text-align: right;
-    left: 23%;
-    top: -5%;
+    left: 20%;
+    top: 8%;
 
 }
 

@@ -14,7 +14,8 @@
     position: absolute;
     font-weight: lighter;
     left: 44.5%;
-    top: 7%;
+    top: 13.6%;
+
     
 }
 
@@ -24,7 +25,7 @@
     color: #A1B1BC;
     width: 587px;
     position: absolute;
-    top: 21.5%;
+    top: 21%;
     left: 36%;
     text-align: center;
     line-height: 24px;
@@ -105,7 +106,7 @@
     width: 1129px;
     position: absolute;
     left: 19.4%;
-    top:35%;
+    top:34%;
 }
 
 .div-boxa-1{
@@ -115,4 +116,5 @@
     position: absolute;
     left: 19.4%;
     top:70%;
+
 }
