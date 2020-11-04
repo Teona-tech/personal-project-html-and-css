@@ -1,0 +1,20 @@
+.mother-box-13 {
+    width: 1920px;
+    height:100px;
+    background-color: #222533;
+    display: flex;
+    justify-content: center;
+}
+
+.child-13 {
+    width:1100px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+
+}
+.child-13 > div > i {
+    color:#999A9F;
+    font-size: 23px;
+    
+}
