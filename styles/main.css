@@ -1,0 +1,148 @@
+.mother-box{
+    width:1920px;
+    height:1280px;
+    position:relative;
+    background-color:#222533;
+    display: flex;
+    font-family: 'Lato', sans-serif;
+    color:white;
+    justify-content:center;
+    max-width:1920px;
+    min-width:600px;
+    overflow: hidden;
+
+  }
+
+body {
+    margin:auto;
+}
+
+
+
+.txt {
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 8.4px;
+    font-family: 'Lato', sans-serif;
+    word-spacing: 4px;
+    position: absolute;
+    top: 35%;
+    left: 37%;
+
+}     
+
+.txt1{
+    position: absolute;
+    font-size:60.5px;
+    text-align:center;
+    font-weight:bold;
+    font-family: 'Lato', sans-serif;
+    top: 35%;
+    left: 21%;
+
+}
+
+.txt2{
+    font-size:30px;
+    text-align:center;
+    font-weight:lighter;
+    font-family: 'Lato', sans-serif;
+    position: absolute;
+    top: 44.4%;
+    left: 29%;
+}
+
+span {
+    color:#1ABC9C;
+}
+
+
+.button {
+    position: absolute;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    height: 61px;
+    width: 440px;
+    left: 38.5%;
+    top: 52.5%;
+
+}
+
+
+.button2{
+    background-color:#1ABC9C ;
+    font-size:18px;
+    color:white;
+    border:1px;
+    border-radius:2px;
+    font-family: 'Lato', sans-serif;
+    width:200px;
+    height:61px;
+
+    
+}
+
+.button1{
+    background-color: #222533 ;
+    font-size:18px;
+    color:white;
+    border:1px solid white;
+    border-radius:2px;
+    font-family: 'Lato', sans-serif;
+    width:200px;
+    height:61px;
+
+
+    
+}
+
+.radio-1 {
+    width:14px;
+    height:14px;
+    background-color:white;
+    border-radius:14px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+}
+
+.green {
+
+    width: 6px;
+    height: 6px;
+    border-radius: 6px;
+    background-color: #1ABC9C;
+    
+
+}
+
+.radio {
+    position: absolute;
+    top: 58.8%;
+    width: 86px;
+    height: 14px;
+    display: flex;
+    justify-content: space-between;
+    left: 47.8%;
+    top: 60.5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
