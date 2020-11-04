@@ -1,0 +1,71 @@
+.mother-box-1{
+    width:1920px;
+    height:90px;
+    display:flex;
+    justify-content:space-around;
+    box-shadow: 0 0.55px 5px lightgray;
+
+
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    height: 90px;
+    width: 1180px;
+    margin-right: 8%;
+}
+.logo {
+    width: 160px;
+    height: 45px;
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+    margin-right: 14.4%;
+    margin-left: 6.4%;
+   
+}
+.photo {
+    width: 40px;
+    height: 45px;
+    margin-left: 4%;
+    margin-top: 3%;
+}
+
+
+.page {
+    width:10%;
+}
+
+
+.fox {
+    font-size: 35.69px;
+    color: #34495E;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.bar {
+    width: 904px;
+    height: 15px;
+    display: flex;
+    font-size: 15px;
+    flex-direction: row;
+    align-self: center;
+    margin-top: 0.7%;
+    justify-content: space-between;
+}
+
+.page {
+    color:#A1B1BC;
+    font-family:'Lato', sans-serif;
+
+}
+
+.lighter{
+    font-family:'Lato', sans-serif;
+    color: #34495E;
+    
+}
