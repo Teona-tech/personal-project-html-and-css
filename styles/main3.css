@@ -1,0 +1,68 @@
+.mother-box-3{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    position: relative;
+    width:1920px;
+    height:500px;
+    background-color:#F9FBFA;
+
+
+}
+
+.about {
+    position: absolute;
+    font-size: 36px;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    top: 14%;
+    left: 19.5%;
+    color:#2C3E50;
+}
+.info {
+    position: absolute;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    width: 570px;
+    top: 29%;
+    left: 19.5%;
+    line-height: 24px;
+    word-spacing: 1px;
+    color:#A1B1BC;
+}
+
+.info1 {
+    position: absolute;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    width: 550px;
+    top: 52.9%;
+    left: 19.6%;
+    line-height: 24px;
+    word-spacing: 1px;
+    color:#A1B1BC;
+}
+
+.more {
+    position: absolute;
+    top: 70%;
+    left: 19.45%;
+    font-size: 16px;
+    color: #34495E;
+    width: 172.69px;
+    height: 50px;
+    letter-spacing: 0.3px;
+    border: 0.5px solid #F1F2F4 ;
+    border-radius: 3px;
+    font-weight: bold;
+    background-color: white;
+
+}
+
+.img {
+    position: absolute;
+    left: 52.4%;
+    top: 25.8%;
+}
