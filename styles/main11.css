@@ -1,0 +1,118 @@
+.mother-box-11{
+    position: relative;
+    width:1920px;
+    height:700px;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 7.6%;
+
+}
+
+
+.break{
+    font-size: 36px;
+    color: #2C3E50;
+    position: absolute;
+    font-weight: lighter;
+    left: 44.5%;
+    top: 7%;
+    
+}
+
+
+.Thefox{
+    font-size: 14px;
+    color: #A1B1BC;
+    width: 587px;
+    position: absolute;
+    top: 21.5%;
+    left: 36%;
+    text-align: center;
+    line-height: 24px;
+    
+
+
+}
+.gosip{
+    width:335px;
+    height:206px;
+    position: relative;
+
+}
+.rect{
+    width: 170px;
+    height: 201px;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-color: #ECF0F1;
+
+
+
+}
+
+.rect:hover{
+    background-color:#222533;
+
+}
+.may {
+    text-align: left;
+    width: 100px;
+    font-size: 14px;
+    color: #A1B1BC;
+    position: relative;
+    top:56%;
+    left: 64%;
+    line-height: 26px;
+}
+
+
+.title-10{
+    font-weight: bold;
+    text-align: left;
+    line-height: 27px;
+    width: 177px;
+    position: absolute;
+    top: -3%;
+    left: 56%;
+    font-size: 18px;
+
+}
+
+.ikonka{
+    position: absolute;
+    top: 57%;
+    left: 56%;
+}
+
+
+.ikonka1{
+    position: absolute;
+    top: 70%;
+    left: 56%;
+
+}
+
+
+.ikonka2{
+    position: absolute;
+    top: 85%;
+    left: 57%;
+}
+
+.div-boxa{
+    display:flex;
+    justify-content: space-between;
+    width: 1129px;
+    position: absolute;
+    left: 19.4%;
+    top:35%;
+}
+
+.div-boxa-1{
+    display:flex;
+    justify-content: space-between;
+    width: 1129px;
+    position: absolute;
+    left: 19.4%;
+    top:70%;
+}
