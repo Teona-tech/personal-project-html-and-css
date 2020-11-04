@@ -1,0 +1,193 @@
+.mother-box-6{
+     width:1920px;
+     height: 832px;
+     position: relative;
+     
+}
+
+
+.recent{
+    width:620px;
+    height:88px;
+}
+
+
+.our2 {
+    font-size: 35px;
+    font-family: 'Lato', sans-serif;
+    position: absolute;
+    left: 44.4%;
+    color: #222533;
+    font-weight: lighter;
+    word-spacing: 5px;
+    top: 5%;
+}
+.story2 {
+    text-align: center;
+    font-size: 14px;
+    position: absolute;
+    left: 33.4%;
+    color: #2C3E50;
+    font-weight: lighter;
+    font-family: 'Lato', sans-serif;
+    width: 630.7px;
+    line-height: 24px;
+    word-spacing: 1px;
+    top: 14%;
+}
+
+.nav-house{
+    display: flex;
+    width: 806px;
+    height: 14px;
+    justify-content: space-between;
+    
+
+
+
+}
+
+.element{
+    font-size:14px;
+    color: #2C3E50;
+    font-weight: lighter;
+    font-family: 'Lato', sans-serif;
+}
+.element:hover{
+    color:#1ABC9C;
+    font-weight: bold;
+
+
+}
+.nav-palase{
+    position:absolute;
+    top: 27.6%;
+    left: 19.45%;
+}
+
+
+.box-hovera{
+    display: grid;
+    grid-template-columns: 292px 292px 292px 292px;
+    grid-template-rows: 200px 200px;
+    position: absolute;
+    top: 40%;
+    left: 19.4%;
+    margin-bottom: 4%;
+    z-index: 2;
+
+    
+}
+
+
+.gray{
+   background-color:#A1B1BC;
+   position: relative;
+
+
+}
+.light-gray{
+    background-color:#ECF0F1;
+    position: relative;
+
+
+}
+
+.sort{
+    padding-left: 0.3%;
+    padding-top: 0.3%;
+    top: 28.3%;
+    left: 74%;
+    width: 122px;
+    height: 37px;
+    position: absolute;
+    padding-bottom: 0.3%;
+    padding-right: 0.3%;
+    font-family: 'Lato', sans-serif;
+    background-color: #ECF0F1;
+    color: #2C3E50;
+    font-size: 14px;
+    border-radius: 3px;
+    border: 2px solid  #ECF0F1;
+    
+
+}
+
+
+.plus{
+
+    font-size: 48px;
+    color:#A1B1BC;
+    position: absolute;
+    top: 40%;
+    left: 44.4%;
+    font-weight: lighter;
+    font-family: 'Lato', sans-serif;
+    color:transparent;
+
+   
+}
+.tringle{
+    position: absolute;
+    top: 95.9%;
+    left: 45%;
+    width:10%;
+    height:5%; 
+    opacity:0%;
+}
+
+
+.box-hovera > div:hover{
+    background-color:#2C3E50;
+    height:130px;
+    
+}
+
+.plus:hover{
+    color:white;
+}
+
+.tringle:hover{
+    opacity:100%;
+}
+    
+.hov{
+    color:#2C3E50;
+    font-size:15px;
+    text-align: center;
+    font-size:12px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    
+}
+
+.teqsto{
+    width:1170px;
+    height:100px;
+    display:flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 58%;
+    left: 19%;
+    z-index: 1;
+}
+
+
+.teqsto-1{
+    width:1170px;
+    height:100px;
+    display:flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 82%;
+    left: 19%;
+    z-index: 1;
+
+}
+
+.photo1{
+    color:#A1B1BC;
+    font-size:10px;
+    text-align:center;
+    text-indent:20px;
+}
